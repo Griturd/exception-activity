@@ -11,7 +11,6 @@ public class Calculator {
             e.printStackTrace();
         }
 
-
     }
 
     public float divide(float a, float b) throws DivideByZeroException {
@@ -21,4 +20,5 @@ public class Calculator {
         }
         return a / b;
     }
+
 }

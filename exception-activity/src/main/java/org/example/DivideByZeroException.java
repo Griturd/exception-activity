@@ -16,4 +16,5 @@ public class DivideByZeroException extends Exception {
     public DivideByZeroException(Throwable cause) {
         super(cause);
     }
+
 }
